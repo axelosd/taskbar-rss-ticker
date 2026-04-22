@@ -12,7 +12,11 @@ Taskbar Ticker is a customizable desktop news ticker for Windows 10/11 that keep
 - Highlight breaking keywords with notifications  
 - Pin and track read articles  
 - Customize source colors for better visibility  
-- Adjust ticker speed, font size, colors, and opacity  
+- Adjust ticker speed, font size, colors, and opacity
+
+## 🪟 Download
+
+👉 https://apps.microsoft.com/detail/9ng4nc0s41l4
 
 ### 💾 Storage
 
