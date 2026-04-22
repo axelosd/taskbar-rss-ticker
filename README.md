@@ -35,3 +35,7 @@ All settings are stored locally on your device.
 ![Settings filters](tt_settings_filters.png)
 
 ![Settings colors](tt_settings_colors.png)
+
+## 📄 Note
+
+This repository does not include the source code.
