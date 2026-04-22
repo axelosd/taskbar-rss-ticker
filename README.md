@@ -4,6 +4,8 @@ Live RSS news directly on your Windows taskbar — stay updated without interrup
 
 Taskbar Ticker is a customizable desktop news ticker for Windows 10/11 that keeps live headlines visible above your taskbar.
 
+👉 [Download on Microsoft Store](https://apps.microsoft.com/detail/9ng4nc0s41l4)
+
 ### 🚀 Features
 
 - Follow multiple RSS feeds in a single live ticker  
@@ -14,9 +16,6 @@ Taskbar Ticker is a customizable desktop news ticker for Windows 10/11 that keep
 - Customize source colors for better visibility  
 - Adjust ticker speed, font size, colors, and opacity
 
-## 🪟 Download
-
-👉 https://apps.microsoft.com/detail/9ng4nc0s41l4
 
 ### 💾 Storage
 
